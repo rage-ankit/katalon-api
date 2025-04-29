@@ -1,0 +1,17 @@
+.svn/
+.cache/
+*.log
+*.tmp
+/Reports/
+/tmp/
+/coverage/
+/bin/
+/Libs/
+/.settings/
+/.classpath
+
+console.properties
+
+.DS_Store
+Thumbs.db
+*.log
